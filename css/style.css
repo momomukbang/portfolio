@@ -14,6 +14,10 @@
 
 /* Clear Floated Elements
 ---------------------------------*/
+
+sass styles.scss styles.css
+
+
 .clear {
   clear: both;
   display: block;
